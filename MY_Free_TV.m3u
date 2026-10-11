@@ -27,6 +27,8 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163690.m3u8
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163696.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-id="TVAlhijrah" group-title="Astro",TV Alhijrah HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163647.m3u8
+#EXTINF:-1 tvg-id="TutorTVSMK" group-title="Astro",Tutor TV SMK HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163913.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-2-my.png" tvg-id="" group-title="Astro Sports",Astro Arena 2 HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163657.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" tvg-id="AstroArena" group-title="Astro Sports",Astro Arena HD
@@ -57,6 +59,8 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775978.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" tvg-id="AstroSportsUHD" group-title="Astro Sports",Astro SuperSport UHD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163984.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png" tvg-id="AstroPremierLeague5" group-title="Astro Sports",Astro Premier League 5 HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920385.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" tvg-id="BernamaTV" group-title="Malaysia",Bernama TV
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163718.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/didik-tv-kpm-my.png" tvg-id="DidikTVKPM" group-title="Malaysia",DidikTV KPM HD
@@ -153,6 +157,12 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163884.m3u8
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163886.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" tvg-id="W-Sport" group-title="Sports",W-Sport HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163951.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-ten-1-in.png" tvg-id="SonyTen1" group-title="Sports",Sony Ten 1 HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163997.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" tvg-id="beINSports3" group-title="Sports",beIN Sports 3 HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163994.m3u8
+#EXTINF:-1 tvg-id="beINSports5" group-title="Sports",beIN Sports 5 HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1237010.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" tvg-id="ABCAustralia" group-title="News",ABC Australia HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163643.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" tvg-id="AlJazeeraEnglish" group-title="News",Al Jazeera English HD
@@ -171,6 +181,10 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163749.m3u8
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163776.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" tvg-id="" group-title="News",Sky News HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163880.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png" tvg-id="CGTN" group-title="News",CGTN HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920357.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" tvg-id="France24" group-title="News",France 24 English HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163784.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" tvg-id="AsianFoodNetwork" group-title="Entertainment",Asian Food Network HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163653.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" tvg-id="AXN" group-title="Entertainment",AXN HD
@@ -203,12 +217,40 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163826.m3u8
 http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" tvg-id="tvNMovies" group-title="Entertainment",tvN Movies HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163945.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" tvg-id="NHKWorldPremium" group-title="Entertainment",NHK World Premium HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920368.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" tvg-id="LoveNature" group-title="Entertainment",Love Nature HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920366.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" tvg-id="HitsMovies" group-title="Entertainment",HITS Movies HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920362.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" tvg-id="BBCEarth" group-title="Entertainment",BBC Earth HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920349.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" tvg-id="TravelChannel" group-title="Entertainment",Travel Channel HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1164003.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" tvg-id="TLC" group-title="Entertainment",TLC HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163910.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" tvg-id="Lifetime" group-title="Entertainment",Lifetime HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163835.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" tvg-id="KBSWorld" group-title="Entertainment",KBS World HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163829.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" tvg-id="History" group-title="Entertainment",History HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163808.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/31780236-3056-4866-AE99-B3C33D65B073/0-16x9.png?width=160&updatedTime=0&dt=Web" tvg-id="403" group-title="Entertainment",HBO Family HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163795.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" group-title="Entertainment",Discovery Channel HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163768.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=160&updatedTime=0&dt=Web" tvg-id="553" group-title="Kids",CBeebies HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163727.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" tvg-id="NickJr" group-title="Kids",Nick Jr HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163859.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" tvg-id="Nickelodeon" group-title="Kids",Nickelodeon HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163862.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" tvg-id="Moonbug" group-title="Kids",Moonbug Kids HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163844.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" tvg-id="CartoonNetwork" group-title="Kids",Cartoon Network HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163724.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-yay-in.png" tvg-id="SonyYAY" group-title="Kids",Sony Yay HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1237024.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" tvg-id="CCTV4" group-title="Chinese",CCTV4 HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163730.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" tvg-id="PhoenixChineseChannel" group-title="Chinese",Phoenix Chinese Channel HD
@@ -221,6 +263,12 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163930.m3u8
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163933.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" tvg-id="TVBSAsia" group-title="Chinese",TVBS Asia FHD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163938.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" tvg-id="TVBXingHe" group-title="Chinese",TVB Xing He HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920374.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" tvg-id="CelestialClassicMovies" group-title="Chinese",Celestial Classic Movies HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920355.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" tvg-id="CelestialMovies" group-title="Chinese",Celestial Movies HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1164000.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" tvg-id="ColorsHD" group-title="Indian",Colors HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1164001.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" tvg-id="ColorsTamil" group-title="Indian",Colors Tamil HD
@@ -237,6 +285,12 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163901.m3u8
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163904.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" tvg-id="ZeeTamil" group-title="Indian",Zee Tamil HD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163963.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" tvg-id="ZeeCinema" group-title="Indian",Zee Cinema HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920378.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-tv-in.png" tvg-id="ZeeTV" group-title="Indian",Zee TV HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1237031.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-thirai-in.png" tvg-id="302" group-title="Indian",Zee Thirai HD
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1237030.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/animax-hk.png" tvg-id="Animax" group-title="Singapore",Animax FHD
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1236987.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/channel-5-sg.png" tvg-id="Channel5" group-title="Singapore",Channel 5 FHD
