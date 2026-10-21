@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" tvg-id="AstroAEC" group-title="Astro",Astro AEC FHD
+https://cdn.qd.je/163189.php?id=aec
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png" tvg-id="AstroAOD" group-title="Astro",Astro AOD FHD
+https://cdn.qd.je/163189.php?id=aod
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/8TV_logo.svg/512px-8TV_logo.svg.png" group-title="Malaysia FTA",8TV
+https://cdn.qd.je/163189.php?id=8tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-awani-my.png" tvg-id="AstroAwani" group-title="Astro",Astro Awani HD (Global)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/89d38aFilemMantap.png" tvg-id="FilemMantap" group-title="Singapore",Filem Mantap
+https://tglmp01.akamaized.net/out/v1/35baec6f2f1f47f89dde431d388d91ee/manifest.mpd
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/d11e84GustoTV.png" tvg-id="GustoTV" group-title="Extras",GUSTO TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ac4f4dPetClubTV.png" tvg-id="PetClub" group-title="Extras",PET CLUB TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" tvg-id="AstroHuaHeeDai" group-title="Astro",Astro Hua Hee Dai FHD
+https://cdn.qd.je/163189.php?id=hxt
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" tvg-id="tvN" group-title="Entertainment",tvN Asia HD
+http://58.8.186.128:10005/bysid/2518
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/0ee87bFree_Movies.png" tvg-id="FreeMovies" group-title="Extras",Free Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/rtm-asean-my.png" tvg-id="" group-title="MY FTA (Geo MY)",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
