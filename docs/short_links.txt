@@ -1,0 +1,28 @@
+# Kovak TV — short links (hide origin IP + GitHub username in the visible link)
+# updated: 2026-10-21 — hosting PINDAH ke GitHub/jsDelivr SEPENUHNYA. VPS /epg/ retired (404).
+#   playlist 165 ch; EPG ~170 ch (auto 6am/6pm)
+
+playlist: https://tinyurl.com/kovaktv     -> https://cdn.jsdelivr.net/gh/maaz-github/mytvfiles@main/MY_TV_Full.m3u
+epg:      https://tinyurl.com/kovak-epg   -> https://cdn.jsdelivr.net/gh/maaz-github/mytvfiles@main/EPG_Astro_Malaysia.xml.gz
+
+# KECEMASAN 2026-10-21: panel best-8k rosak (stream 458 global).
+# MY_TV_Full.m3u SEMENTARA = 11ch FTA (sumber langsung). Backup 165ch: MY_TV_Full.m3u.panel-backup-20261021
+# Pulihkan bila panel OK: cp MY_TV_Full.m3u.panel-backup-20261021 MY_TV_Full.m3u && cp MY_TV_Full.m3u MY_Free_TV.m3u && bash github-publish.sh
+# Watchdog: Hermes cron 39f199b50acd (2h) — notify bila panel pulih/mati semula.
+
+# direct / backup (GitHub-only — tiada VPS lagi)
+playlist: https://cdn.jsdelivr.net/gh/maaz-github/mytvfiles@main/MY_TV_Full.m3u
+epg:      https://cdn.jsdelivr.net/gh/maaz-github/mytvfiles@main/EPG_Astro_Malaysia.xml.gz
+fallback: https://raw.githubusercontent.com/maaz-github/mytvfiles/main/<same filename>
+
+# RETIRED 2026-10-21 (nginx /epg/ dibuang — jangan guna):
+#   ip backup: https://43.156.7.38/epg/<filename>  -> 404
+#   APK links (VN/SAI/OTT) -> 404. Fail APK kekal atas disk VPS (tak serve).
+#   Kalau perlukan APK lagi — minta serve semula sebentar.
+
+# APK sha256 (rujukan, fail masih atas disk):
+#   VN 2.21.0 xapk  df790e3ef766141e7776206f685ec6dfa682b5a856d5144831437c4daa5a93bf (com.frontrow.vlog, code 7263)
+#   SAI 4.5 apk     632ce65cc6cde1fb5704375b18bccffd0bfa4d476385375ab8088bc21f5f8f11
+
+# note: shorteners can't be re-pointed without an account — if a target changes, mint new ones
+# (tinyurl api-create.php?url=<encoded>&alias=<alias> — no signup needed)
